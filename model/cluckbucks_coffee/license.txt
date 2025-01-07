@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cluckbucks Coffee Cup
+* source:	https://sketchfab.com/3d-models/cluckbucks-coffee-cup-10899ecd56d74abf91674254b0435ef3
+* author:	chickenpants93 (https://sketchfab.com/chickenpants93)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cluckbucks Coffee Cup" (https://sketchfab.com/3d-models/cluckbucks-coffee-cup-10899ecd56d74abf91674254b0435ef3) by chickenpants93 (https://sketchfab.com/chickenpants93) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
